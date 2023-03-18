@@ -88,3 +88,27 @@ h2 {
     display: block;
     margin-top: 10px;
 }
+
+.links-list-2 {
+    list-style: none;
+}
+
+.links-list-2 li {
+    margin: 10px 20px;
+}
+
+.links-list-2 li a {
+    display: block;
+    background: white;
+    padding: 15px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.links-list-2 li a span {
+    color: grey;
+    display: block;
+    margin-top: 10px;
+}
